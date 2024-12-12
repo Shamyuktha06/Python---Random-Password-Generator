@@ -52,8 +52,6 @@ Generated Password: aB9@dF7&gH2!
 - **Password Strength Indicator**: Add a feature to analyze and display the strength of the generated password.
 - **Password Storage**: Option to securely save passwords locally or in a password manager.
 
-### 6. License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
 
 
 
